@@ -11,6 +11,12 @@ UI codes forked from [SC-FEGAN](https://github.com/JoYoungjoo/SC-FEGAN)
 - PyQt5
 - Numpy, Scipy, Skimage...
 
+**Pretrained model:**
+
+Download from https://github.com/knazeri/edge-connect#getting-started
+
+Put them under `weights/` directory
+
 **How to run:**
 ```python
 python3 demo.py
