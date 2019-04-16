@@ -1,7 +1,7 @@
 # edge-connect-ui
 An image-inpainting application forked from [EdgeConnect](https://github.com/knazeri/edge-connect)
 
-paper: https://arxiv.org/abs/1901.00212
+aper: https://arxiv.org/abs/1901.00212
 
 UI codes forked from [SC-FEGAN](https://github.com/JoYoungjoo/SC-FEGAN)
 
