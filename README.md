@@ -3,7 +3,7 @@ An image-inpainting application forked from [EdgeConnect](https://github.com/kna
 
 paper: https://arxiv.org/abs/1901.00212
 
-UI forked from [SC-FEGAN](https://github.com/JoYoungjoo/SC-FEGAN)
+UI codes forked from [SC-FEGAN](https://github.com/JoYoungjoo/SC-FEGAN)
 
 Testing Samples:
 
