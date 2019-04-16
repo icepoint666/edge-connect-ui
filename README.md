@@ -9,7 +9,7 @@ UI codes forked from [SC-FEGAN](https://github.com/JoYoungjoo/SC-FEGAN)
 - Python 3.6
 - Pytorch 1.0.1
 - PyQt5
-- Numpy, Scipy, Skimage...
+- Numpy, Scipy, Skimage, OpenCV...
 
 **Pretrained model:**
 
